@@ -11,7 +11,7 @@ Users should be able to view courses, create an account, check progress and be g
 # Features
 - **User Dashboard:** Users have access to a personalized dashboard where they can view the status of their course applications. The dashboard provides an overview of applied courses, application status, and important notifications.
 
-- ** Admin Dashboard:** The admin dashboard offers administrative capabilities, allowing the admin to manage courses, quizzes (in development), blog posts, and user applications. The admin can add new courses, edit existing courses, accept/reject user applications, and perform various administrative tasks.
+- **Admin Dashboard:** The admin dashboard offers administrative capabilities, allowing the admin to manage courses, quizzes (in development), blog posts, and user applications. The admin can add new courses, edit existing courses, accept/reject user applications, and perform various administrative tasks.
 
 - **Course Management:** The admin can easily add new courses, provide detailed information about each course, set application deadlines, and manage course content. Users can browse and apply for courses directly from the platform.
 
