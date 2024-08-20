@@ -6,8 +6,8 @@ Contains basic functions for the backend
 and other neccessary dynamic functionality of the platform
 """
 
-
 """Home page"""
+@app.route("/")
 @app.route("/home")
 def home():
     return render_template('home.html')
