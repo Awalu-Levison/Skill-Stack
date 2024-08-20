@@ -8,7 +8,7 @@ Team Members
 This is a portfolio project towards the ALX Software Engineering journey
 Users should be able to view courses, create an account, check progress and be graded.
 # Features
-** User Dashboard: **
+* User Dashboard: *
 Users have access to a personalized dashboard where they can view the status of their course applications. The dashboard provides an overview of applied courses, application status, and important notifications.
 
 
