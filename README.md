@@ -1,9 +1,9 @@
 # Skill Stack - Learning platform
 
 Team Members
-* Awalu Levison <levisonawalu251@gmail.com>
-* Lionel Jospin Yamkam Dakyam <email>
-* Jeremy John <email>
+* Awalu Levison - Frontend <levisonawalu251@gmail.com>
+* Lionel Jospin Yamkam Dakyam - Backend <email>
+* Jeremy John - Databse <email>
 
 This is a portfolio project towards the ALX Software Engineering journey
 Users should be able to view courses, create an account, check progress and be graded.
