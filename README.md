@@ -5,6 +5,6 @@ Team Members
 * Lionel Jospin Yamkam Dakyam <email>
 * Jeremy John <email>
 
-* This is a portfolio project towards the ALX Software Engineering journey
+This is a portfolio project towards the ALX Software Engineering journey
 Users should be able to view courses, create an account, check progress and be graded.
 
