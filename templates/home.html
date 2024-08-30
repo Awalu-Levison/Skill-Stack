@@ -3,26 +3,42 @@
 <html lang="en">
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+	<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 	<title>Home</title>
 </head>
 
 <body>
-	<form>
-		<label for="fname">First Name:</label><br>
-		<input type="text" id="fname" name="fname"><br>
-		<label for="lname">Last Name:</label><br>
-		<input type="text" id="lname" name="lname">
+	{% block content %}
+
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-4">
+				<h3>Courses</h3>
+				<section>
+					<p>
+						This course offers a thorough introduction to the C programming language.
+						Participants will delve into the core concepts, syntax, and structures of C,
+						equipping them to craft basic programs. Key areas of focus encompass variables, data types, control structures, functions, arrays, and pointers.
+						Engaging hands-on activities and projects will provide learners with tangible experience in problem-solving using C.
+						Upon concluding this course, participants will possess a robust understanding of C programming and be primed to explore more intricate subjects.
+					</p>
+					<p>
+						This enables many programers build projects of their choice starting from Desktop Applications, Systems Development among other things.<br>
+						Click button below for more details<br>
+						<button id='btn1'>C Programming</button>
+					</p>
+				<section>
+				</div>
+			</div>
+		</div>
+
+
+
 		
-	  </form>
-	<p>
-	Explore the courses available
-	</p>
-
-	<p>
-	Click for more details <br>
-	<button color="red" b_ground-colour="blue">More Courses</button>
-	</p>
-
+	{% endblock content %}
 </body>
 
 </html>

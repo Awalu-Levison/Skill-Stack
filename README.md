@@ -3,6 +3,7 @@
 Team Members
 * Awalu Levison - Frontend <levisonawalu251@gmail.com>
 * Lionel Jospin Yamkam Dakyam - Backend <yamkamlionel@gmail.com>
+* Jeremiah John
 
 This is a portfolio project towards the ALX Software Engineering journey
 Users should be able to view courses, create an account, check progress and be graded.
@@ -26,5 +27,4 @@ Users should be able to view courses, create an account, check progress and be g
 - **HTML, CSS, JavaScript:** Front-end technologies used for designing and creating the user interface.
 - **Bootstrap:** A popular CSS framework that provides responsive design and pre-built components to enhance the visual appearance of the platform.
 - **MySQL:** A relational database management system used for storing application and user data.
-
 
