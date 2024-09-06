@@ -10,7 +10,7 @@ and other neccessary dynamic functionality of the platform
 @app.route("/")
 @app.route("/home")
 def home():
-    return render_template('home.html', title='Home')
+    return render_template('index.html', title='Home')
 
 
 """About us page"""
