@@ -24,11 +24,6 @@ def about():
 def contact():
     return render_template('contact.html')
 
-"""Learners dashboard"""
-@app.route("/dashboard")
-def dashboard():
-    return render_template('dashboard.html')
-
 
 if __name__ == "__main__":
     """run the application outside the development server"""
